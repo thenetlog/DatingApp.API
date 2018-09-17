@@ -26,3 +26,17 @@ C:\Users\HP\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.Assemb
 C:\Users\HP\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorTargetAssemblyInfo.cache
 C:\Users\HP\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.dll
 C:\Users\HP\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.pdb
+C:\Users\HP\Desktop\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.deps.json
+C:\Users\HP\Desktop\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.runtimeconfig.json
+C:\Users\HP\Desktop\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.runtimeconfig.dev.json
+C:\Users\HP\Desktop\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.dll
+C:\Users\HP\Desktop\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.pdb
+C:\Users\HP\Desktop\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.AssemblyInfo.cs
+C:\Users\HP\Desktop\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.dll
+C:\Users\HP\Desktop\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.pdb
