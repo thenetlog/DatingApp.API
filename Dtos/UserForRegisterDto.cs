@@ -5,7 +5,7 @@ namespace DatingApp.API.Dtos
     // Data Transfer Objects
     public class UserForRegisterDto
     {
-        [Required(ErrorMessage = "Username is required")]
+        [Required]
         public string Username { get; set; }
         
         [Required]
